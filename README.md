@@ -11,8 +11,7 @@ Welcome to the **AI Content Hub**, a complete step-by-step tutorial project buil
 This application allows users to sign up, purchase credits, and leverage the power of AI to generate both text-based content and stunning images from prompts.
 
 [](https://opensource.org/licenses/MIT)
-[](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
-[](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPO/network/members)
+[](https://www.google.com/search?q=https://github.com/Ramneek07/QuickGPT/stargazers)
 
 *(Add a GIF of your application here\!)*
 
@@ -20,7 +19,7 @@ This application allows users to sign up, purchase credits, and leverage the pow
 
 ## 🚀 Live Demo
 
-Check out the live deployed application here: **[https://your-live-app-url.com](https://www.google.com/search?q=https://your-live-app-url.com)**
+Check out the live deployed application here: **https://quick-gpt-lac-ten.vercel.app/**
 
 ## ✨ Key Features
 
@@ -62,8 +61,8 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-    cd YOUR_REPO
+    git clone https://github.com/Ramneek07/QuickGPT.git
+    cd QuickGPT
     ```
 
 2.  **Setup the Backend (`server`):**
@@ -104,7 +103,7 @@ Follow these instructions to get the project up and running on your local machin
 
     ```env
     # .env.local in client directory
-    VITE_API_BASE_URL="http://localhost:8080/api/v1"
+    VITE_API_BASE_URL="http://localhost:3000/api/v1"
 
     # Payment Gateway Public Key (e.g., Stripe)
     VITE_STRIPE_PUBLISHABLE_KEY="your_stripe_publishable_key"
@@ -119,7 +118,7 @@ Follow these instructions to get the project up and running on your local machin
     npm run dev
     ```
 
-    The server should now be running on `http://localhost:8080`.
+    The server should now be running on `http://localhost:3000`.
 
 2.  **Start the Frontend Development Server:**
     From the `client` directory, run:
@@ -150,12 +149,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
------
-
-\<p align="center"\>
-Made with ❤️ by [Your Name]
-\</p\>
-\<p align="center"\>
-Show your support by ⭐️ this repository\!
-\</p\>
