@@ -1,9 +1,5 @@
 # QuickGPT
 
-Here is an enhanced and attractive version of your project description, formatted perfectly for a GitHub README file.
-
------
-
 # 🤖 AI Content Hub - A Full-Stack MERN Project
 
 Welcome to the **AI Content Hub**, a complete step-by-step tutorial project building a full-stack AI-powered application using the MERN stack (MongoDB, Express.js, React.js, Node.js).
